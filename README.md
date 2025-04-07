@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @varyhoo
-- 👀 I’m a NKUer grade 3...
-- 🌱 I’m currently learning ML,OS,Network,Principles of Compiler Design ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me： ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I'm @varyhoo
+- 🎓 NKUer | Computer Science & Technology | Grade 3
+- 🔐 Currently specializing in: 
+  - Software Engineering 
+  - Data Security & Cryptography
+  - Big Data Computing & Applications
+  - Computer System Architecture
+- 🌱 Learning: Distributed Systems | Cloud Security | ML for Anomaly Detection
+- 💞️ Looking to collaborate on: Open-source security tools | Data-intensive applications | System optimization projects
+- 📫 Reach me: [Your preferred contact method - email/LinkedIn/etc.]
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I once debugged a kernel panic during a midnight coding session!
 
-<!---
-varyhoo/varyhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ About this profile: 
+This README.md is my digital handshake - a showcase of my journey through computer systems from silicon to software. Each commit represents another step in mastering the art of building secure, scalable systems.
