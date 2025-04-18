@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @varyhoo
 - 🎓 NKUer | Computer Science & Technology | Grade 3
-- 🔐 Currently specializing in: 
+- 🔐 Currently interest in: 
   - Software Engineering 
   - Data Security & Cryptography
   - Big Data Computing & Applications
